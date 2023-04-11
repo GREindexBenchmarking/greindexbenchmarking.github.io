@@ -8,13 +8,13 @@ View this page [here](https://greindexbenchmarking.github.io/)
 
 ## Screenshot
 ## Homepage
-![screenshot](https://greindexbenchmarking.github.io/blob/main/screenshot/homepage.png)
+![screenshot](https://github.com/GREindexBenchmarking/greindexbenchmarking.github.io/blob/main/screenshot/homepage.png)
 
 ## HeatMap 
-![screenshot](https://greindexbenchmarking.github.io/blob/main/screenshot/heatmap.png)
+![screenshot](https://github.com/GREindexBenchmarking/greindexbenchmarking.github.io/blob/main/screenshot/heatmap.png)
 
 ## Leaderboard
-![screenshot](https://greindexbenchmarking.github.io/blob/main/screenshot/LeaderBoard.png)
+![screenshot](https://github.com/GREindexBenchmarking/greindexbenchmarking.github.io/blob/main/screenshot/LeaderBoard.png)
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
